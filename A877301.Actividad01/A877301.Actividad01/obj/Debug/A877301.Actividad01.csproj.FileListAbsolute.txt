@@ -1,0 +1,7 @@
+C:\Users\ASUS\Desktop\sistemas de infor\cai 2\Github\CAI2021\A877301.Actividad01\A877301.Actividad01\bin\Debug\A877301.Actividad01.exe.config
+C:\Users\ASUS\Desktop\sistemas de infor\cai 2\Github\CAI2021\A877301.Actividad01\A877301.Actividad01\bin\Debug\A877301.Actividad01.exe
+C:\Users\ASUS\Desktop\sistemas de infor\cai 2\Github\CAI2021\A877301.Actividad01\A877301.Actividad01\bin\Debug\A877301.Actividad01.pdb
+C:\Users\ASUS\Desktop\sistemas de infor\cai 2\Github\CAI2021\A877301.Actividad01\A877301.Actividad01\obj\Debug\A877301.Actividad01.csprojAssemblyReference.cache
+C:\Users\ASUS\Desktop\sistemas de infor\cai 2\Github\CAI2021\A877301.Actividad01\A877301.Actividad01\obj\Debug\A877301.Actividad01.csproj.CoreCompileInputs.cache
+C:\Users\ASUS\Desktop\sistemas de infor\cai 2\Github\CAI2021\A877301.Actividad01\A877301.Actividad01\obj\Debug\A877301.Actividad01.exe
+C:\Users\ASUS\Desktop\sistemas de infor\cai 2\Github\CAI2021\A877301.Actividad01\A877301.Actividad01\obj\Debug\A877301.Actividad01.pdb
